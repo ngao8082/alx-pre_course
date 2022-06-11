@@ -1,0 +1,15 @@
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+.org-id-locations
+*_archive
+
+*flymake.*
+/eshell/history
+/eshell/lastdir
